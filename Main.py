@@ -9,3 +9,4 @@ for i in data:
             letters_up.append(i)
 print(letters_low, letters_up, sep='\n')
 
+#test test
